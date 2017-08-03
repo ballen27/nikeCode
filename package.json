@@ -1,0 +1,17 @@
+{
+  "name": "nikeAPI",
+  "version": "0.0.0",
+  "description": "Nike code challenge API endpoints",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "~1.0.2",
+    "express": "~4.0.0",
+    "promise": "~8.0.1",
+    "fs": "0.0.1-security"
+  },
+  "author": "Bronson Allen",
+  "license": "BSD-2-Clause"
+}

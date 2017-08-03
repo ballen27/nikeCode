@@ -1,0 +1,32 @@
+{
+  "myNikeShoes": [
+    {
+      "style": "Janoski Max",
+      "color": "white/blue"
+    },
+    {
+      "style": "Janoski Max",
+      "color": "black/red"
+    },
+    {
+      "style": "Janoski Max",
+      "color": "navy/white"
+    },
+    {
+      "style": "Coston Max",
+      "color": "grey/navy"
+    },
+    {
+      "style": "Internationalist Mid",
+      "color": "navy/white"
+    },
+    {
+      "style": "Zoom Pegasus 31",
+      "color": "black"
+    },
+    {
+      "style": "Zoom Vomero 11",
+      "color": "navy/salmon"
+    }
+  ]
+}
